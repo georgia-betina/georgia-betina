@@ -29,9 +29,11 @@
   <img alt="girl avatar" width="200px" src="https://i.imgur.com/f5YabjP.png">
 </div>
 
-# ALT TAB ^ C
+# ALT TAB
 
 <pre>
+  ^C
+  
   <strong>georgia@fedora $</strong> <em>ls ..</em>
   'important'
   
