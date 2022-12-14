@@ -16,9 +16,11 @@
  
  <strong>[georgia@archlinux ~]$</strong> <em>cat studies</em>
  web dev
- css english html java javascript latex linux pentest
+ english html css java javascript latex linux pentest
  univille
  UDESC colmeia
+ 
+ <strong>[georgia@archlinux ~]$</strong> <em>echo software engineer student 2023 >> studies</em>
  
  <strong>[georgia@archlinux ~]$</strong> <em>gwenview</em>
 </pre>
@@ -26,7 +28,7 @@
 # ~/Images/avatar_picrew.jpg
 
 <div align="center">
-  <img alt="girl avatar" width="200px" src="https://i.imgur.com/f5YabjP.png">
+  <img alt="girl avatar" width="200px" src="https://i.imgur.com/Pu4lt74.png">
 </div>
 
 # ALT TAB
