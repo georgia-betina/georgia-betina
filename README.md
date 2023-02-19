@@ -13,6 +13,7 @@
  arch && lineage user
  
  <strong>[georgia@archlinux ~]$</strong> <em>cat job</em>
+ internship at SoftExpert
  
  <strong>[georgia@archlinux ~]$</strong> <em>cat studies</em>
  web dev
