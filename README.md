@@ -13,7 +13,6 @@
  arch && lineage user
  
  <strong>[georgia@archlinux ~]$</strong> <em>cat job</em>
- internship at SoftExpert
  
  <strong>[georgia@archlinux ~]$</strong> <em>cat studies</em>
  web dev
@@ -21,7 +20,7 @@
  univille
  UDESC colmeia
  
- <strong>[georgia@archlinux ~]$</strong> <em>echo software engineer student 2023 >> studies</em>
+ <strong>[georgia@archlinux ~]$</strong> <em>echo technology in systems analysis and development student 2023 >> studies</em>
  
  <strong>[georgia@archlinux ~]$</strong> <em>gwenview</em>
 </pre>
