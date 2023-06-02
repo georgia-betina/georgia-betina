@@ -1,52 +1,57 @@
-# CTRL ALT T
+`georgia@archlinux`
+```console
+georgia@archlinux:~$ whoami
+georgia
+```
+```console
+georgia@archlinux:~$ ls
+aboutme         contact       
+Images          job
+studies
 
+```
+```console
+georgia@archlinux:~$ cat aboutme
+Georgia, 23y/o | she/her/they/them
+arch && lineage user
+
+Nice to meet ya!
+I like to do many things. I'm not excellent at anything, but quite good at some of them.
+aLSO, probably autistic.
+```
+```console
+georgia@archlinux:~$ cat job
+```
+```console
+georgia@archlinux:~$ cat studies
+math (trigonometry and calculus)
+reactJS
+```
+```console
+georgia@archlinux:~$ echo "technology in systems analysis and development student 2023" >> studies
+ ```
+```console
+georgia@archlinux:~$ cd ./Images/ ls
+georgia_avatar_picrew.png
+
+georgia@archlinux:~$ eog -f georgia_avatar_picrew.png
+```
+<br>
+
+` ~/Images/georgia_avatar_picrew.jpg `
 <pre>
- <strong>[georgia@archlinux ~]$</strong> <em>whoami</em>
- georgia
- 
- <strong>[georgia@archlinux ~]$</strong> <em>ls</em>
- aboutme job studies
- 
- <strong>[georgia@archlinux ~]$</strong> <em>cat aboutme</em>
- Georgia, 23y/o
- she/her/they/them
- arch && lineage user
- 
- <strong>[georgia@archlinux ~]$</strong> <em>cat job</em>
- 
- <strong>[georgia@archlinux ~]$</strong> <em>cat studies</em>
- web dev
- english html css java javascript latex linux pentest
- univille
- UDESC colmeia
- 
- <strong>[georgia@archlinux ~]$</strong> <em>echo technology in systems analysis and development student 2023 >> studies</em>
- 
- <strong>[georgia@archlinux ~]$</strong> <em>gwenview</em>
+<img alt="girl avatar" width="200px" src="https://i.imgur.com/Pu4lt74.png">
 </pre>
+<br>
 
-# ~/Images/avatar_picrew.jpg
+`georgia@archlinux`
+```console
+^C
 
-<div align="center">
-  <img alt="girl avatar" width="200px" src="https://i.imgur.com/Pu4lt74.png">
-</div>
+georgia@archlinux:~$ cat contact
+mailto:georgia_betina@hotmail.com
+mailto:georgiabetina@proton.me
+linkedin: /in/ge%C3%B3rgia-betina/
 
-# ALT TAB
-
-<pre>
-  ^C
-  
-  <strong>[georgia@archlinux ~]$</strong> <em>ls ..</em>
-  'important'
-  
-  <strong>[georgia@archlinux ~]$</strong> <em>cd ../important/</em>
-  <strong>[georgia@archlinux ~]$</strong> <em>ls</em>
-  contact
-  
-  <strong>[georgia@archlinux ~]$</strong> <em>cat contact</em>
-  mailto:georgia_betina@hotmail.com
-  mailto:georgiabetina@proton.me
-  linkedin: /in/ge%C3%B3rgia-betina/
-  
-  <strong>[georgia@archlinux ~]$</strong> <em>exit</em>▉
-</pre>
+georgia@archlinux:~$ exit▉
+```
