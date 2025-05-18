@@ -10,12 +10,11 @@ At the moment, I'm taking a step back to focus on my degree.
 
 <br>
 
-:computer: **My lil tech stack:**
+:computer: **My tech stack:**
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/calyxos-4e483d?style=for-the-badge&logo=calyxos&logoColor=white">
+<img src="https://img.shields.io/badge/GrapheneOS-4e483d?style=for-the-badge&logo=GrapheneOS&logoColor=white">
 
 :envelope_with_arrow: **Reach me:** [e-mail](mailto:georgia_betina@hotmail.com)
