@@ -1,7 +1,3 @@
-<hr>
-<img src="./readme-header-2025.jpg" alt="Image with the text 'Hello! I'm Geórgia Betina (she/her/they/them)', followed by neurodiversity symbol.">
-<hr>
-
 **Welcome**! It's great to have you here.
 <br><br><br>
 My name is Geórgia Betina, and I use the pronouns she/her or they/them. I'm a 25-year-old non-binary woman from Brazil, a proud member of the LGBTQAIPN+ community, and autistic. I'm currently an undergraduate student at [UDESC](https://www.udesc.br/). I collaborate with [LAMAN](https://github.com/GASR-UDESC), assisting in scientific research on the design of mobile robots for testing multi-robotic systems.
